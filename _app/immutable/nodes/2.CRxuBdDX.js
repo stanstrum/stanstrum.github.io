@@ -1,0 +1,3 @@
+import{T as e,_ as t,c as n,h as r,k as i}from"../chunks/CUc-F9fW.js";import"../chunks/xihTtKlq.js";var a=t(`<meta name="description" content="Personal website and portfolio."/>`),o=t(`<div class="flex justify-center px-6 py-24"><div class="w-full max-w-3xl"><h1 class="mb-6 text-6xl font-bold tracking-tight text-white">A personal corner
+			of the internet.</h1> <p class="text-lg leading-8 text-slate-300">I’m building this site to share projects, writing, experiments,
+			and other things I’m working on.</p></div></div>`);function s(t){var s=o();n(`1uha8ag`,t=>{var n=a();e(()=>{i.title=`Stan Strum`}),r(t,n)}),r(t,s)}export{s as component};
